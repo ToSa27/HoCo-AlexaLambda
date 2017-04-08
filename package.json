@@ -1,0 +1,22 @@
+{
+  "name": "hoco-alexa-lambda",
+  "version": "1.0.0",
+  "description": "HoCo Alexa Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToSa27/HoCo-AlexaLambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToSa27/HoCo-AlexaLambda/issues"
+  },
+  "homepage": "https://github.com/ToSa27/HoCo-AlexaLambda#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
